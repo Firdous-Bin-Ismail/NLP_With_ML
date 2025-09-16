@@ -4,23 +4,23 @@ This project focuses on building a sentiment analysis model using traditional ma
 
 🔹 Key Highlights
 
-Text Preprocessing:
+-> Text Preprocessing:
 
 Removed stopwords, lowercasing, removed numbers, removed Punctuation and emojis
 
 Tokenized the Corpus.
 
-Feature Extraction:
+-> Feature Extraction:
 
 Compared the Bag of Words (BoW) and TF-IDF vectorization techniques.
 
-Models Used:
+-> Models Used:
 
 Logistic Regression
 
 Naive Bayes
 
-Evaluation:
+-> Evaluation:
 
 Compared model performance across BoW and TF-IDF representations.
 
