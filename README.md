@@ -1,2 +1,27 @@
-# NLP_With_ML
-Sentiment Analysis Built a sentiment analysis model with:  Preprocessing: cleaned and tokenized text Feature Extraction: Bag of Words vs TF-IDF  Algorithms: Logistic Regression &amp; Naive Bayes  Comparison: evaluated and compared accuracy across methods
+Sentiment Analysis Project
+
+This project focuses on building a sentiment analysis model using traditional machine learning techniques.
+
+🔹 Key Highlights
+
+Text Preprocessing:
+
+Removed stopwords, lowercasing, removed numbers, removed Punctuation and emojis
+
+Tokenized the Corpus.
+
+Feature Extraction:
+
+Compared the Bag of Words (BoW) and TF-IDF vectorization techniques.
+
+Models Used:
+
+Logistic Regression
+
+Naive Bayes
+
+Evaluation:
+
+Compared model performance across BoW and TF-IDF representations.
+
+Reported accuracy and insights on which method performed better.
